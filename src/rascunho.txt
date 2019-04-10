@@ -5,3 +5,8 @@
 //                           exact={item.route.exact}
 //                           render={() => (<DynamicComponent key={path}/>)}/>
 //           }}  
+
+
+ {/* this.state.data.map(
+               (data=> <Route exact path={data.path} component={data.name} /> )
+            )     */}

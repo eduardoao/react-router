@@ -1,0 +1,36 @@
+.bordertop {
+    border-top: 4px solid #FFE000;
+    padding: 20px;
+}
+*, :after, :before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.headerDesktop {
+    display: none;
+    visibility: hidden;
+}
+.header, .header-menu {
+    font-family: "Open Sans",sans-serif;
+}
+body {
+    -webkit-font-smoothing: antialiased;
+}
+body, input, select, textarea {
+    font: normal 14px Lato,Arial,sans-serif;
+}
+*, :after, :before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+*, :after, :before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
