@@ -1,0 +1,7 @@
+// {
+//         this.props.data.nav.map((id, name, path) => {
+//             let DynamicComponent = require('./' + id + '/' + name).default;
+//             return <Route key={index} path={item.route.url}
+//                           exact={item.route.exact}
+//                           render={() => (<DynamicComponent key={path}/>)}/>
+//           }}  
