@@ -3,8 +3,6 @@ import '../assert/header.css';
 
 export default class Header extends React.Component {
 
-    
-
     render() {
         return (
             <header>
@@ -12,4 +10,5 @@ export default class Header extends React.Component {
             </header>
         );
     }
+
 }
